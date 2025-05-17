@@ -1,0 +1,5 @@
+IP,Hostname,State,OS,Ports
+192.168.1.1,router.home.local,up,OpenWrt 21.02 (Linux 5.4),"53/tcp (open), 80/tcp (open), 443/tcp (open), 5000/tcp (open)"
+192.168.1.106,,up,Microsoft Windows 10 1809 - 21H2,"135/tcp (open), 445/tcp (open), 5357/tcp (open), 6666/tcp (open), 8080/tcp (open)"
+192.168.1.151,DESKTOP-IFGK5QJ.home.local,up,Microsoft Windows 10 1809 - 21H2,"135/tcp (open), 139/tcp (open), 445/tcp (open), 5357/tcp (open), 6666/tcp (open), 8080/tcp (open)"
+192.168.1.183,RokuExpress.home.local,up,Linux 5.10 - 5.19,"7000/tcp (open), 9080/tcp (open)"
